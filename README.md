@@ -16,14 +16,17 @@
 ## Array
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/PalakDesai05/leetcode/tree/master/0169-majority-element) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/PalakDesai05/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/PalakDesai05/leetcode/tree/master/0169-majority-element) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/PalakDesai05/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/PalakDesai05/leetcode/tree/master/0169-majority-element) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/PalakDesai05/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Segment Tree
 |  |
@@ -36,9 +39,14 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/PalakDesai05/leetcode/tree/master/0169-majority-element) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/PalakDesai05/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Prefix Sum
 |  |
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/PalakDesai05/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Sorting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/PalakDesai05/leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
