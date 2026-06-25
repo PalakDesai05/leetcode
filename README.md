@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/PalakDesai05/leetcode/tree/master/0231-power-of-two) |
+| [2965-find-missing-and-repeated-values](https://github.com/PalakDesai05/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -17,11 +18,13 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/PalakDesai05/leetcode/tree/master/0169-majority-element) |
+| [2965-find-missing-and-repeated-values](https://github.com/PalakDesai05/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/PalakDesai05/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Hash Table
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/PalakDesai05/leetcode/tree/master/0169-majority-element) |
+| [2965-find-missing-and-repeated-values](https://github.com/PalakDesai05/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/PalakDesai05/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Divide and Conquer
 |  |
@@ -49,4 +52,8 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/PalakDesai05/leetcode/tree/master/0169-majority-element) |
+## Matrix
+|  |
+| ------- |
+| [2965-find-missing-and-repeated-values](https://github.com/PalakDesai05/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 <!---LeetCode Topics End-->
