@@ -19,6 +19,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/PalakDesai05/leetcode/tree/master/0169-majority-element) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/PalakDesai05/leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/PalakDesai05/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2965-find-missing-and-repeated-values](https://github.com/PalakDesai05/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/PalakDesai05/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Hash Table
@@ -61,6 +62,7 @@
 |  |
 | ------- |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/PalakDesai05/leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/PalakDesai05/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2390-removing-stars-from-a-string](https://github.com/PalakDesai05/leetcode/tree/master/2390-removing-stars-from-a-string) |
 ## Stack
 |  |
