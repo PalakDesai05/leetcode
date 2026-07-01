@@ -64,6 +64,7 @@
 ## String
 |  |
 | ------- |
+| [0520-detect-capital](https://github.com/PalakDesai05/leetcode/tree/master/0520-detect-capital) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/PalakDesai05/leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/PalakDesai05/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2390-removing-stars-from-a-string](https://github.com/PalakDesai05/leetcode/tree/master/2390-removing-stars-from-a-string) |
