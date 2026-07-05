@@ -100,4 +100,8 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/PalakDesai05/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/PalakDesai05/leetcode/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
