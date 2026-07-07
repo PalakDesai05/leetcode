@@ -6,6 +6,7 @@
 | ------- |
 | [0231-power-of-two](https://github.com/PalakDesai05/leetcode/tree/master/0231-power-of-two) |
 | [2965-find-missing-and-repeated-values](https://github.com/PalakDesai05/leetcode/tree/master/2965-find-missing-and-repeated-values) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/PalakDesai05/leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Bit Manipulation
 |  |
 | ------- |
