@@ -6,6 +6,7 @@
 | ------- |
 | [0231-power-of-two](https://github.com/PalakDesai05/leetcode/tree/master/0231-power-of-two) |
 | [2965-find-missing-and-repeated-values](https://github.com/PalakDesai05/leetcode/tree/master/2965-find-missing-and-repeated-values) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/PalakDesai05/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/PalakDesai05/leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Bit Manipulation
 |  |
@@ -106,4 +107,8 @@
 | ------- |
 | [0176-second-highest-salary](https://github.com/PalakDesai05/leetcode/tree/master/0176-second-highest-salary) |
 | [0177-nth-highest-salary](https://github.com/PalakDesai05/leetcode/tree/master/0177-nth-highest-salary) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/PalakDesai05/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
