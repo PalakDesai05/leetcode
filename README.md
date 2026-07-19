@@ -12,6 +12,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/PalakDesai05/leetcode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/PalakDesai05/leetcode/tree/master/0231-power-of-two) |
 ## Recursion
 |  |
@@ -40,6 +41,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/PalakDesai05/leetcode/tree/master/0169-majority-element) |
+| [0191-number-of-1-bits](https://github.com/PalakDesai05/leetcode/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/PalakDesai05/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/PalakDesai05/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Segment Tree
