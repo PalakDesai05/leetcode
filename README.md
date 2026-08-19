@@ -18,6 +18,7 @@
 | ------- |
 | [0191-number-of-1-bits](https://github.com/PalakDesai05/leetcode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/PalakDesai05/leetcode/tree/master/0231-power-of-two) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/PalakDesai05/leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Recursion
 |  |
 | ------- |
@@ -37,6 +38,7 @@
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/PalakDesai05/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/PalakDesai05/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/PalakDesai05/leetcode/tree/master/2965-find-missing-and-repeated-values) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/PalakDesai05/leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/PalakDesai05/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Hash Table
 |  |
