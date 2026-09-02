@@ -26,6 +26,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/PalakDesai05/leetcode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/PalakDesai05/leetcode/tree/master/0011-container-with-most-water) |
 | [0169-majority-element](https://github.com/PalakDesai05/leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/PalakDesai05/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -43,6 +44,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/PalakDesai05/leetcode/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/PalakDesai05/leetcode/tree/master/0169-majority-element) |
 | [0496-next-greater-element-i](https://github.com/PalakDesai05/leetcode/tree/master/0496-next-greater-element-i) |
 | [2965-find-missing-and-repeated-values](https://github.com/PalakDesai05/leetcode/tree/master/2965-find-missing-and-repeated-values) |
