@@ -6,6 +6,7 @@
 | ------- |
 | [0231-power-of-two](https://github.com/PalakDesai05/leetcode/tree/master/0231-power-of-two) |
 | [0628-maximum-product-of-three-numbers](https://github.com/PalakDesai05/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0836-rectangle-overlap](https://github.com/PalakDesai05/leetcode/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/PalakDesai05/leetcode/tree/master/0877-stone-game) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/PalakDesai05/leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/PalakDesai05/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -152,4 +153,8 @@
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/PalakDesai05/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/PalakDesai05/leetcode/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
